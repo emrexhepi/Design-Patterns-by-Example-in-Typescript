@@ -4,7 +4,7 @@ Explaining design patterns with examples written in TypeScript (while trying to 
 ## Introduction
 ===============
 
-## Design Patterns Types
+## Design Pattern Types
 ===============
 
 * [Creational](#creational-design-patterns)
